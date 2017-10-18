@@ -170,22 +170,18 @@ metropolitan statistical area](http://www.oregonmetro.gov/sites/default/files/20
 ---
 
 background-image: url("resources/CRC_VMT.png")
-background-size: 80%
+background-size: 72%
 class: center, bottom
 
-Columbia River Crossing Study with MetroScope
-
-Source: [Sonny Connor, et al](http://www.oregonmetro.gov/sites/default/files/10272010_CRC_economic_impacts_tolling.pdf)
+Columbia River Crossing Study with MetroScope (Source: [Sonny Conder, et al, 2010](http://www.oregonmetro.gov/sites/default/files/10272010_CRC_economic_impacts_tolling.pdf))
 
 ---
 
 background-image: url("resources/CRC_density.png")
-background-size: 80%
+background-size: 72%
 class: center, bottom
 
-Columbia River Crossing Study with MetroScope
-
-Source: [Sonny Connor, et al, 2010](http://www.oregonmetro.gov/sites/default/files/10272010_CRC_economic_impacts_tolling.pdf)
+Columbia River Crossing Study with MetroScope (Source: [Sonny Conder, et al, 2010](http://www.oregonmetro.gov/sites/default/files/10272010_CRC_economic_impacts_tolling.pdf))
 
 ---
 
